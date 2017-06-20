@@ -1,0 +1,2 @@
+# improved-cash
+Bitminer
